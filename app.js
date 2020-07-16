@@ -1,4 +1,4 @@
-unction repeatStringNumTimes(str, num) {
+function repeatStringNumTimes(str, num) {
     var accumulatedStr = "";
   
     while (num > 0) {
